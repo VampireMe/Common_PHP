@@ -1,0 +1,19 @@
+
+
+1、controllers > manage 目录 > ListandartController.php > createlistbottom || topAction
+
+1、controllers > manage 目录 > HtmlcatlistController.php
+
+2、views > tpl > channel
+
+3、views > tpl > public > include
+
+4、views > tpl > puhlic_list
+
+5、library > QConfig > Site > Config.php
+
+6、library > QLib > Config > Client.php
+
+8、web > api 
+
+7、web > 9939 > res 

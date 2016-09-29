@@ -1,0 +1,13 @@
+
+说明：
+	开发中，常用的工具开源框架：
+	
+	（1）FirePHPCore：是一个调试的插件，依赖 firebug，将信息输出在 firebug 的 console 中
+	
+	（2）Kint：是一个调试的插件，直接引入相关文件即可，但是夹杂在页面中输出
+	
+	（3）phpass-0.3：是一个 PHP hash 算法加密的一个开源框架
+	
+	（4）Plates：是一个 PHP 原生的模板框架
+	
+	（5）Socket: 是一个实现 Socket 编程的开源框架，可以高效、安全、快速的实现 PHP Socket 开发

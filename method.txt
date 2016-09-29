@@ -1,0 +1,24 @@
+
+…or create a new repository on the command line
+
+
+Copy to clipboard 
+echo # Common_PHP >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/VampireMe/Common_PHP.git
+git push -u origin master
+
+
+
+…or push an existing repository from the command line
+
+
+Copy to clipboard 
+git remote add origin https://github.com/VampireMe/Common_PHP.git
+git push -u origin master
+
+
+
+

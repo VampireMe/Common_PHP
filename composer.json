@@ -1,0 +1,7 @@
+{
+    "name": "administrator/common_php",
+    "description": "common test project",
+    "require": {
+        "riverslei/payment": "^1.0"
+    }
+}

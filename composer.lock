@@ -1,0 +1,67 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "c9fd506a605ba81040dbb35193c6bdad",
+    "content-hash": "c93397cd9259cb707df7aee0145c596b",
+    "packages": [
+        {
+            "name": "riverslei/payment",
+            "version": "v1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/helei112g/payment.git",
+                "reference": "4a4527a7fe498728c6e95f45bdbc44a075840007"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://packagist.phpcomposer.com/files/helei112g/payment/4a4527a7fe498728c6e95f45bdbc44a075840007.zip",
+                "reference": "4a4527a7fe498728c6e95f45bdbc44a075840007",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "~4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Payment\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "helei112g",
+                    "email": "helei5200@126.com",
+                    "homepage": "http://blog.csdn.net/hel12he/"
+                }
+            ],
+            "description": "集成支付宝、微信支付等流行的支付接口，后续会持续跟进中",
+            "homepage": "http://blog.csdn.net/hel12he/",
+            "keywords": [
+                "alipay",
+                "weixin",
+                "微信支付",
+                "支付宝支付",
+                "集成支付接口SDK"
+            ],
+            "time": "2016-06-16 02:10:23"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
